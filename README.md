@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Full Stack Web Developer from Palermo(Italy)
+I'm a Junior Full Stack Web Developer from Palermo (Italy)
 
 
 ## 🌐 Socials:
